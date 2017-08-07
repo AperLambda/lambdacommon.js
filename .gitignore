@@ -1,0 +1,13 @@
+#
+# AperLambda ignore file
+#
+
+# JetBrains
+.idea/
+
+# Node.JS
+node_modules/
+package-lock.json
+
+# Common
+build/

@@ -1,0 +1,17 @@
+{
+  "name": "lambdacommonjs",
+  "description": "A library written in JS with common features.",
+  "author": "AperLambda",
+  "license": "MIT",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AperLambda/lambdacommon.js.git"
+  },
+  "main": "./lib/index",
+  "dependencies": {
+    "enum": "^2.4.0",
+    "mkdirp": "^0.5.1",
+    "underscore": "^1.8.3"
+  }
+}
