@@ -1,5 +1,5 @@
 {
-  "name": "@aperlambda/lambdacommonjs",
+  "name": "lambdacommonjs",
   "description": "A library written in JS with common features.",
   "author": "AperLambda <aper.entertainment@gmail.com>",
   "contributors": [
