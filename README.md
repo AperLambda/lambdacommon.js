@@ -1,4 +1,4 @@
-# lambdacommon.js
+# λcommon.js
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/AperLambda/lambdacommon.js/master/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/AperLambda/lambdacommon.js.svg)](https://github.com/AperLambda/lambdacommon.js/issues)
