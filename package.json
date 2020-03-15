@@ -1,21 +1,16 @@
 {
   "name": "lambdacommonjs",
   "description": "A library written in JS with common features.",
-  "author": "AperLambda <aper.entertainment@gmail.com>",
-  "contributors": [
-    "Clément \"wAperClem\" <waperclem@gmail.com>"
-  ],
+  "author": "LambdAurora <aurora42lambda@gmail.com>",
   "license": "MIT",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/AperLambda/lambdacommon.js.git"
   },
-  "main": "./lib/index",
+  "main": "./lib/lambdacommon",
   "dependencies": {
-    "enum": "^2.4.0",
-    "mkdirp": "^0.5.1",
-    "underscore": "^1.8.3"
+    "terminal-kit": "1.35.1"
   },
   "bugs": {
     "url": "https://github.com/AperLambda/lambdacommon.js/issues"
@@ -26,7 +21,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "node test/test.js"
+    "test": "node test/test.mjs"
   },
   "keywords": [
     "lambdacommon",

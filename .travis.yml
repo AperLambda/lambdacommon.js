@@ -3,7 +3,10 @@ sudo: false
 install:
   - npm install
 node_js:
-  - "6"
   - "7"
   - "8"
   - "node"
+deploy:
+  provider: npm
+  email: "$NPM_EMAIL_ADDRESS"
+  api_key: "$NPM_AUTH_TOKEN"
