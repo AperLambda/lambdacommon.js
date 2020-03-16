@@ -3,12 +3,13 @@
   "description": "A library written in JS with common features.",
   "author": "LambdAurora <aurora42lambda@gmail.com>",
   "license": "MIT",
-  "version": "1.1.2",
+  "version": "1.1.3",
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/AperLambda/lambdacommon.js.git"
   },
-  "main": "./lib/lambdacommon",
+  "main": "./lib/lambdacommon.mjs",
   "dependencies": {
     "terminal-kit": "1.35.1"
   },

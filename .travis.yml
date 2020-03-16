@@ -4,7 +4,3 @@ install:
   - npm install
 node_js:
   - "node"
-deploy:
-  provider: npm
-  email: "$NPM_EMAIL_ADDRESS"
-  api_key: "$NPM_AUTH_TOKEN"
