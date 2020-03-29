@@ -1,28 +1,24 @@
 {
   "name": "lambdacommonjs",
-  "description": "A library written in JS with common features.",
-  "author": "LambdAurora <aurora42lambda@gmail.com>",
-  "license": "MIT",
   "version": "1.1.4",
+  "description": "A library written in JS with common features.",
+  "main": "./lib/lambdacommon.mjs",
   "type": "module",
+  "scripts": {
+      "test": "node test/test.mjs"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/AperLambda/lambdacommon.js.git"
   },
-  "main": "./lib/lambdacommon.mjs",
-  "dependencies": {
-    "terminal-kit": "1.35.1"
-  },
+  "author": "LambdAurora <aurora42lambda@gmail.com>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/AperLambda/lambdacommon.js/issues"
   },
   "homepage": "https://github.com/AperLambda/lambdacommon.js#readme",
-  "directories": {
-    "lib": "lib"
-  },
-  "devDependencies": {},
-  "scripts": {
-    "test": "node test/test.mjs"
+  "dependencies": {
+      "terminal-kit": "1.35.1"
   },
   "keywords": [
     "lambdacommon",
