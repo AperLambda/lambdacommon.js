@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/AperLambda/lambdacommon.js#readme",
   "dependencies": {
-      "terminal-kit": "1.35.1"
+      "terminal-kit": "2.1.8"
   },
   "keywords": [
     "lambdacommon",
